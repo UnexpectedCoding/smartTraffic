@@ -89,7 +89,7 @@ python opencv.py
 ## 🙌 Acknowledgment
 
 Developed by:  
-**Saiyef Akhter Ali**  
+**Soufik Aktar**  
 
 ---
 
